@@ -5,7 +5,10 @@ This notebook focuses on analyzing student performance data to uncover patterns,
 
 
 
-Features
+
+
+
+Features :
 
 Data Cleaning & Preprocessing – Handle missing values, duplicates, and inconsistencies.
 
@@ -17,7 +20,9 @@ Visualization – Graphs using Matplotlib, Seaborn, or Plotly.
 
 
 
-Technologies Used
+
+
+Technologies ::
 
 Python 3.x
 
@@ -27,7 +32,10 @@ Platform: Jupyter Notebook
 
 
 
-Project Flow
+
+
+
+Project Flow ::
 
 Load dataset from data/ folder
 
@@ -39,7 +47,10 @@ Generate insights and conclusions
 
 
 
-Example Insights
+
+
+
+Example Insights ::
 
 Relation between study hours and performance
 
